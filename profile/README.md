@@ -20,7 +20,6 @@
 
 ## 개발 목표
 
-+ [점프 투 스프링 부트](https://wikidocs.net/book/7601)를 활용한 에브리타임 클론 코딩 
 +  클론코딩을 통한 백엔드 기초 학습
 + 깃허브와 피그마 기반의 협업 능력 향상
 
@@ -32,11 +31,12 @@
 ![spring boot](https://img.shields.io/badge/Spring%20boot%20-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![thymeleaf1.28.0](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-![thymeleaf1.28.0](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![daisyu](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![docker](https://img.shields.io/badge/docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernates 1.28.0](https://img.shields.io/badge/fly.io-8D5A9E?style=for-the-badge&logo=fly.io&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+
+
 
 </div>
 
