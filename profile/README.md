@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb14f77e-1cef-4c80-993e-6e54291bdece" alt="Logo"/>
+  <img src="https://private-user-images.githubusercontent.com/87259233/357645728-9eaa9c1d-cbc5-4093-8999-76fbd1f195ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM1OTgxNzgsIm5iZiI6MTcyMzU5Nzg3OCwicGF0aCI6Ii84NzI1OTIzMy8zNTc2NDU3MjgtOWVhYTljMWQtY2JjNS00MDkzLTg5OTktNzZmYmQxZjE5NWZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE0VDAxMTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0ZTBmMTcyZjZlM2NhNDdmYzFhOWNmMGZiMjhjMmJmNzAwMjkzMTA0MDQ2MjY3M2ViYzRhMzI4YzIyNzAwZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NBbvh07jp3RHi7R_vsxhQXoU8mzlqIGoDeluN_31KMw" alt="Logo"/>
 </p>
 
 <p align="center">부산대 X 부경대 상상해커톤 (24.08.13 ~ 08.14)</p>
