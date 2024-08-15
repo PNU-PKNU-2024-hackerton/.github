@@ -64,3 +64,7 @@
 - 오프라인 전시회를 하는 갤러리, 분위기 좋은 로컬 카페와 협업하여 오프라인 전시 기획 (한달동안 혹은, 일주일간 랭킹 시스템에서 1등을 한 작가)
 - 구독 서비스를 이용하여 전시회 수 제한 완화 (무료 이용자는 전시회 수 제한 = DB경량화)
 - 예술관련 업체, 오프라인 전시회 광고 수익
+
+## 협업
+- [notion](https://www.notion.so/5fc6d076e87d42f9ab9c955087b6fe10)
+- [figma](https://www.figma.com/board/0HGmYibP4mZ1sK1HT7eX4T/Untitled?node-id=0-1&t=iSYYiLIU4BjbsFoB-0)
