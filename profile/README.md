@@ -66,7 +66,8 @@
 - 예술관련 업체, 오프라인 전시회 광고 수익
 
 ## 협업
-#### - [발표자료 ppt](https://github.com/user-attachments/files/16621501/default.pptx)
-#### - [notion](https://www.notion.so/5fc6d076e87d42f9ab9c955087b6fe10)
-#### - [figma](https://www.figma.com/board/0HGmYibP4mZ1sK1HT7eX4T/Untitled?node-id=0-1&t=iSYYiLIU4BjbsFoB-0)
+#### [발표자료 ppt](https://github.com/user-attachments/files/16621501/default.pptx)
+#### [notion](https://www.notion.so/5fc6d076e87d42f9ab9c955087b6fe10)
+#### [figma](https://www.figma.com/board/0HGmYibP4mZ1sK1HT7eX4T/Untitled?node-id=0-1&t=iSYYiLIU4BjbsFoB-0)
 
+<a href="https://www.notion.so/5fc6d076e87d42f9ab9c955087b6fe10" target="_blank">notion</a>
