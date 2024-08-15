@@ -1,4 +1,4 @@
-# 🦁My Little Galary💻
+# My Little Galary💻
 
 
 
